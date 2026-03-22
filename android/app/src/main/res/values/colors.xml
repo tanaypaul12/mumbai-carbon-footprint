@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launch_background">#0A3B2E</color>
+    <color name="green_deep">#0A3B2E</color>
+    <color name="green_accent">#2FC87A</color>
+</resources>
